@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/Lucas-Pina1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Pina1&show_icons=true&theme=gruvbox&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Pina1&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180rem"   src="https://github-readme-stats.vercel.app/api?username=Lucas-Pina1&show_icons=true&theme=gruvbox&count_private=true"/>
+  <img height="180rem"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Pina1&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
   
   <br>
