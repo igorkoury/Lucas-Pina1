@@ -1,4 +1,4 @@
-### Hi there, I'm Lucas Pina 👋
+## Hi there, I'm Lucas Pina 👋
 
 - 🌱 I'm currently focused on learning front-end technologies, but I'm also learning a little back-end.
 
