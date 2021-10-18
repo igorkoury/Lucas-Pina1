@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/Lucas-Pina1">
-  <img height="180rem"   src="https://github-readme-stats.vercel.app/api?username=Lucas-Pina1&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180rem"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Pina1&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180rem"   src="https://github-readme-stats.vercel.app/api?username=Lucas-Pina1&show_icons=true&theme=gruvbox&count_private=true"/>
+  <img height="180rem"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Pina1&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 <br>
 <div style="display: inline_block">
@@ -15,7 +15,7 @@
   <img align="center" alt="Lucas-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Lucas-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right"  alt="pic" width="25%"  src="https://www.mygo.ge/uploads/blog/1584023795.jpg" >
+  <img align="right"  alt="pic" height="150"  src="https://www.mygo.ge/uploads/blog/1584023795.jpg" >
   <br> <br>
   <p> - Next steps for studying :</p>
   <img align="center" alt="Lucas-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
