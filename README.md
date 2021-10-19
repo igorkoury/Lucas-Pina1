@@ -2,7 +2,7 @@
 
 - 🌱 I'm currently focused on learning front-end technologies, but I'm also learning a little back-end.
 
-<div align="center">
+<div align="center" style="display: flex;">
   <a href="https://github.com/Lucas-Pina1">
   <img  height="180rem" src="https://github-readme-stats.vercel.app/api?username=Lucas-Pina1&show_icons=true&theme=tokyonight&count_private=true"/>
   <img  height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Pina1&layout=compact&langs_count=7&theme=tokyonight"/>
